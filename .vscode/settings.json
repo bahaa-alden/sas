@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.suggest.showClasses": true,
+  "html-css-class-completion.enableEmmetSupport": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "cssPeek.supportTags": false,
+  "git.autorefresh": true,
+  "liveServer.settings.CustomBrowser": "microsoft-edge",
+  "liveServer.settings.fullReload": true
+}
